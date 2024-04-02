@@ -27,7 +27,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=enqueue)](https://solved.ac/enqueue)
 
 ### Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enqueue01&layout=compact)
 
 <hr/>
   
